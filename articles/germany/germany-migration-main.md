@@ -18,6 +18,8 @@ ms.custom: bfmigrate
 >
 > Based on the evolution in customers’ needs, we recently [launched](https://azure.microsoft.com/blog/microsoft-azure-available-from-new-cloud-regions-in-germany/) two new datacenter regions in Germany, offering customer data residency, full connectivity to Microsoft’s global cloud network, as well as market competitive pricing. 
 >
+> Microsoft Cloud Germany will be closing on October 29th, 2021.  To learn more, please visit: https://aka.ms/germanymigrateassist
+>
 > Take advantage of the breadth of functionality, enterprise-grade security, and comprehensive features available in our new German datacenter regions by [migrating](germany-migration-main.md) today.
 
 The articles in this section were created to help you migrate your workloads from Azure Germany to global Azure. Although the [Azure migration center](https://azure.microsoft.com/migration/) provides tools that help you migrate resources, some of the tools in the Azure migration center are useful only for migrations that occur in the same tenant or in the same region.
